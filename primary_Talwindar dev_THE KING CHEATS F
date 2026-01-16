@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f8f8f8; }
+    header { text-align: center; padding: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Website</h1>
+  </header>
+  <p>https://thekingcheats.xyz/index.php.</p>
+</body>
+</html>
